@@ -1,0 +1,3446 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.26)  7 FEB 2025 18:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex
+(c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-09>
+(./kuee.cls
+Document Class: kuee 2018/03/03
+(c:/texlive/2024/texmf-dist/tex/platex/base/jreport.cls
+
+c:/texlive/2024/texmf-dist/tex/platex/base/jreport.cls:16: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+\@kuee@appseq=\count196
+\kuee@post=\write3
+\@kuee@open=\count197
+\@kuee@seq=\count198
+) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count199
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count266
+\leftroot@=\count267
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count268
+\DOTSCASE@=\count269
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count270
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count271
+\dotsspace@=\muskip17
+\c@parentequation=\count272
+\dspbrk@lvl=\count273
+\tag@help=\toks18
+\row@=\count274
+\column@=\count275
+\maxfields@=\count276
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 106.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2022/09/22 v5.0m Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (c:/texlive/2024/texmf-dist/tex/latex/here/here.sty) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count277
+\float@exts=\toks23
+\float@box=\box54
+\@float@everytoks=\toks24
+\@floatcapt=\box55
+) (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count278
+) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box56
+)
+No file sotsuron.aux.
+\openout1 = `sotsuron.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   z
+l.19 \begin{document}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Undefined control sequence.
+\document ...mpdima by \@tempcnta \jintercharskip 
+                                                  = \@tempdima plus 0.5\@tem...
+l.19 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   p
+l.19 \begin{document}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   p
+l.19 \begin{document}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   m
+l.19 \begin{document}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   m
+l.19 \begin{document}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Undefined control sequence.
+\document ...s 0.33333\@tempdima \jasciikanjiskip 
+                                                  = .24zw plus .12zw minus ....
+l.19 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   z
+l.19 \begin{document}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Undefined control sequence.
+\document ...us .12zw minus .08zw \jmathkanjiskip 
+                                                  = .24zw plus .12zw minus ....
+l.19 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   z
+l.19 \begin{document}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Undefined control sequence.
+\document ...advance \parindent + \jintercharskip 
+                                                  \baselineskip = \textheigh...
+l.19 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   \divide 
+l.19 \begin{document}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:19: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \divide 
+l.19 \begin{document}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: Undefined control sequence.
+<argument> \Huge 
+                 \@maintitle 
+l.20 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 学 (U+5B66)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 士 (U+58EB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 論 (U+8AD6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 文 (U+6587)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 題 (U+984C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 目 (U+76EE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: Undefined control sequence.
+<argument> ...dima \@parboxrestore \center \LARGE 
+                                                  \@title \@@par 
+l.20 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character ヘ (U+30D8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character リ (U+30EA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character オ (U+30AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character ト (U+30C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character ロ (U+30ED)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character ン (U+30F3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character に (U+306B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character お (U+304A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character け (U+3051)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character る (U+308B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 突 (U+7A81)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 発 (U+767A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 現 (U+73FE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 象 (U+8C61)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 時 (U+6642)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 空 (U+7A7A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 間 (U+9593)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 構 (U+69CB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 造 (U+9020)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 観 (U+89B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 測 (U+6E2C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 指 (U+6307)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 導 (U+5C0E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 教 (U+6559)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 員 (U+54E1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: Undefined control sequence.
+<argument> ...dima \@parboxrestore \center \LARGE 
+                                                  \@professor \@@par 
+l.20 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 稲 (U+7A32)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 垣 (U+57A3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 滋 (U+6ECB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 教 (U+6559)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 授 (U+6388)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 京 (U+4EAC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 都 (U+90FD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 大 (U+5927)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 学 (U+5B66)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 工 (U+5DE5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 学 (U+5B66)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 部 (U+90E8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 電 (U+96FB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 気 (U+6C17)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 電 (U+96FB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 子 (U+5B50)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 工 (U+5DE5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 学 (U+5B66)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 科 (U+79D1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 氏 (U+6C0F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 名 (U+540D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: Undefined control sequence.
+<argument> \LARGE 
+                  \underline {\@author }
+l.20 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 大 (U+5927)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 西 (U+897F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 國 (U+570B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 憲 (U+61B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: Undefined control sequence.
+<argument> \large 
+                  \@date 
+l.20 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 令 (U+4EE4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 和 (U+548C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 年 (U+5E74)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 月 (U+6708)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: Unicode character 日 (U+65E5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:20: LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \maketitle
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[0{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (10.3125pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2]
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: Undefined control sequence.
+\eabstract ...@lowpenalty \begin {center} {\Large 
+                                                  \bfseries \@etitle }\@endp...
+l.21 \begin{eabstract}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \vbox (11.94444pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:21: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{eabstract}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[6]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[7]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[9]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[10]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:28: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[12]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:29: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \end{eabstract}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[13]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:30: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[14]
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:30: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[15
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: Undefined control sequence.
+\tableofcontents ...mallineskip \@restonecolfalse 
+                                                  \if@twocolumn \@restonecol...
+l.31 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\clearpage
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: Undefined control sequence.
+\@makeschapterhead ...ent 0pt \raggedright \LARGE 
+                                                  \bf #1\par \nobreak \vskip...
+l.31 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: Undefined control sequence.
+\@makeschapterhead ...0pt \raggedright \LARGE \bf 
+                                                  #1\par \nobreak \vskip 20pt }
+l.31 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: LaTeX Error: Unicode character 目 (U+76EE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \tableofcontents
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: LaTeX Error: Unicode character 次 (U+6B21)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \tableofcontents
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+No file sotsuron.toc.
+\tf@toc=\write4
+\openout4 = `sotsuron.toc'.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: Undefined control sequence.
+\tableofcontents ...@starttoc {toc}\if@restonecol 
+                                                  \twocolumn \fi \newpage \e...
+l.31 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \vbox (50.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \tableofcontents
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[16]
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \tableofcontents
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[17
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:31: Extra \fi.
+<recently read> \fi 
+                    
+l.31 \tableofcontents
+                     
+I'm ignoring this; it doesn't match any \if.
+
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+\clearpage
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+<write> \@chapapp 
+                  {\thechapter }.
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+{\thechapter }.
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+<argument> ...er}{\protect \numberline {\@chapapp 
+                                                  {\thechapter }}序論 }{\t...
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+\@chapter ...e {toc}{chapter}{#1}\fi \chaptermark 
+                                                  {#1}\addtocontents {lof}{\...
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: Unicode character 序 (U+5E8F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: Unicode character 論 (U+8AD6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+\@makechapterhead ...\c@secnumdepth >\m@ne \LARGE 
+                                                  \bf \setbox \@tempboxa \hb...
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+\@makechapterhead ...ecnumdepth >\m@ne \LARGE \bf 
+                                                  \setbox \@tempboxa \hbox {...
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+\@makechapterhead ... \@tempboxa \hbox {\@chapapp 
+                                                  {\thechapter }\hskip 10pt}...
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: Unicode character 序 (U+5E8F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: Unicode character 論 (U+8AD6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+<write> ...d \twocolumn too tall on page \thepage 
+                                                  \@gobble \on@line .
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Optional argument of \twocolumn too tall on page .
+
+
+Overfull \vbox (20.0pt too high) has occurred while \output is active []
+
+
+
+
+Overfull \vbox (16.0pt too high) has occurred while \output is active []
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: Undefined control sequence.
+<write> ...line {{\thechapter }}序論 }{\thepage 
+                                                  }{}\protected@file@percent }
+l.40 \chapter{序論}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:40: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \chapter{序論}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2]
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: Undefined control sequence.
+l.41 \section
+             {プラズマと核融合発電}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character プ (U+30D7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プ
+                 ラズマと核融合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character ラ (U+30E9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラ
+                    ズマと核融合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character ズ (U+30BA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズ
+                       マと核融合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character マ (U+30DE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマ
+                          と核融合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character と (U+3068)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマと
+                             核融合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character 核 (U+6838)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマと核
+                                融合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character 融 (U+878D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマと核融
+                                   合発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character 合 (U+5408)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマと核融合
+                                      発電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character 発 (U+767A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマと核融合発
+                                         電}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:41: LaTeX Error: Unicode character 電 (U+96FB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{プラズマと核融合発電
+                                            }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 現 (U+73FE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現
+        代日本では石油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 代 (U+4EE3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代
+           日本では石油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 日 (U+65E5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日
+              本では石油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 本 (U+672C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本
+                 では石油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character で (U+3067)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本で
+                    は石油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character は (U+306F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では
+                       石油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 石 (U+77F3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石
+                          油,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 油 (U+6CB9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油
+                             ,ガスなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ガ (U+30AC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油,ガ
+                                 スなどの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ス (U+30B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油,ガス
+                                    などの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character な (U+306A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油,ガスな
+                                       どの化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ど (U+3069)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油,ガスなど
+                                          の化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油,ガスなどの
+                                             化石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 化 (U+5316)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 現代日本では石油,ガスなどの化
+                                                石燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 石 (U+77F3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��日本では石油,ガスなどの化石
+                                                  燃料を燃焼させて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 燃 (U+71C3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��本では石油,ガスなどの化石燃
+                                                  料を燃焼させてエ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 料 (U+6599)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��では石油,ガスなどの化石燃料
+                                                  を燃焼させてエネ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character を (U+3092)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��は石油,ガスなどの化石燃料を
+                                                  燃焼させてエネル�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 燃 (U+71C3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��石油,ガスなどの化石燃料を燃
+                                                  焼させてエネルギ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 焼 (U+713C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��油,ガスなどの化石燃料を燃焼
+                                                  させてエネルギー�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character さ (U+3055)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...��,ガスなどの化石燃料を燃焼さ
+                                                  せてエネルギーを�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character せ (U+305B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ガスなどの化石燃料を燃焼させ
+                                                  てエネルギーを取�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character て (U+3066)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...スなどの化石燃料を燃焼させて
+                                                  エネルギーを取り�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character エ (U+30A8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...などの化石燃料を燃焼させてエ
+                                                  ネルギーを取り出�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ネ (U+30CD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...どの化石燃料を燃焼させてエネ
+                                                  ルギーを取り出す�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ル (U+30EB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...の化石燃料を燃焼させてエネル
+                                                  ギーを取り出す火�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ギ (U+30AE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...化石燃料を燃焼させてエネルギ
+                                                  ーを取り出す火力�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ー (U+30FC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...石燃料を燃焼させてエネルギー
+                                                  を取り出す火力発�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character を (U+3092)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...燃料を燃焼させてエネルギーを
+                                                  取り出す火力発電�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 取 (U+53D6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...料を燃焼させてエネルギーを取
+                                                  り出す火力発電が�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character り (U+308A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...を燃焼させてエネルギーを取り
+                                                  出す火力発電が一�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 出 (U+51FA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...燃焼させてエネルギーを取り出
+                                                  す火力発電が一次�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character す (U+3059)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...焼させてエネルギーを取り出す
+                                                  火力発電が一次エ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 火 (U+706B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...させてエネルギーを取り出す火
+                                                  力発電が一次エネ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 力 (U+529B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...せてエネルギーを取り出す火力
+                                                  発電が一次エネル�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 発 (U+767A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...てエネルギーを取り出す火力発
+                                                  電が一次エネルギ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 電 (U+96FB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...エネルギーを取り出す火力発電
+                                                  が一次エネルギー�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character が (U+304C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ネルギーを取り出す火力発電が
+                                                  一次エネルギーの�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 一 (U+4E00)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ルギーを取り出す火力発電が一
+                                                  次エネルギーの供�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 次 (U+6B21)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ギーを取り出す火力発電が一次
+                                                  エネルギーの供給�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character エ (U+30A8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ーを取り出す火力発電が一次エ
+                                                  ネルギーの供給の�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ネ (U+30CD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...を取り出す火力発電が一次エネ
+                                                  ルギーの供給の大�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ル (U+30EB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...取り出す火力発電が一次エネル
+                                                  ギーの供給の大部�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ギ (U+30AE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...り出す火力発電が一次エネルギ
+                                                  ーの供給の大部分�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character ー (U+30FC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...出す火力発電が一次エネルギー
+                                                  の供給の大部分を�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...す火力発電が一次エネルギーの
+                                                  供給の大部分を担�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 供 (U+4F9B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...火力発電が一次エネルギーの供
+                                                  給の大部分を担っ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 給 (U+7D66)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...力発電が一次エネルギーの供給
+                                                  の大部分を担って�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...発電が一次エネルギーの供給の
+                                                  大部分を担っている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 大 (U+5927)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...電が一次エネルギーの供給の大
+                                                  部分を担っている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 部 (U+90E8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...が一次エネルギーの供給の大部
+                                                  分を担っている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 分 (U+5206)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...一次エネルギーの供給の大部分
+                                                  を担っている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character を (U+3092)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...次エネルギーの供給の大部分を
+                                                  担っている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character 担 (U+62C5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...エネルギーの供給の大部分を担
+                                                  っている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character っ (U+3063)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ネルギーの供給の大部分を担っ
+                                                  ている.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character て (U+3066)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ルギーの供給の大部分を担って
+                                                  いる.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character い (U+3044)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ギーの供給の大部分を担ってい
+                                                  る.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:42: LaTeX Error: Unicode character る (U+308B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ーの供給の大部分を担っている
+                                                  .
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character し (U+3057)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 し
+        かし,火力発電では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character か (U+304B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しか
+           し,火力発電では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character し (U+3057)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし
+              ,火力発電では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 火 (U+706B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火
+                  力発電では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 力 (U+529B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力
+                     発電では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 発 (U+767A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発
+                        電では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 電 (U+96FB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電
+                           では地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character で (U+3067)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電で
+                              は地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character は (U+306F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電では
+                                 地球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 地 (U+5730)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電では地
+                                    球温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 球 (U+7403)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電では地球
+                                       温暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 温 (U+6E29)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電では地球温
+                                          暖化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 暖 (U+6696)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電では地球温暖
+                                             化や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 化 (U+5316)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 しかし,火力発電では地球温暖化
+                                                や酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character や (U+3084)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...��し,火力発電では地球温暖化や
+                                                  酸性雨の主な原因�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 酸 (U+9178)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...��,火力発電では地球温暖化や酸
+                                                  性雨の主な原因と�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 性 (U+6027)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...火力発電では地球温暖化や酸性
+                                                  雨の主な原因とな�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 雨 (U+96E8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...力発電では地球温暖化や酸性雨
+                                                  の主な原因となる�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...発電では地球温暖化や酸性雨の
+                                                  主な原因となる二�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 主 (U+4E3B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...電では地球温暖化や酸性雨の主
+                                                  な原因となる二酸�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character な (U+306A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...では地球温暖化や酸性雨の主な
+                                                  原因となる二酸化�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 原 (U+539F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...は地球温暖化や酸性雨の主な原
+                                                  因となる二酸化炭�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 因 (U+56E0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...地球温暖化や酸性雨の主な原因
+                                                  となる二酸化炭素�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character と (U+3068)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...球温暖化や酸性雨の主な原因と
+                                                  なる二酸化炭素や�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character な (U+306A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...温暖化や酸性雨の主な原因とな
+                                                  る二酸化炭素や窒�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character る (U+308B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...暖化や酸性雨の主な原因となる
+                                                  二酸化炭素や窒素�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 二 (U+4E8C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...化や酸性雨の主な原因となる二
+                                                  酸化炭素や窒素酸�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 酸 (U+9178)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...や酸性雨の主な原因となる二酸
+                                                  化炭素や窒素酸化�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 化 (U+5316)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...酸性雨の主な原因となる二酸化
+                                                  炭素や窒素酸化物�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 炭 (U+70AD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...性雨の主な原因となる二酸化炭
+                                                  素や窒素酸化物な�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 素 (U+7D20)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...雨の主な原因となる二酸化炭素
+                                                  や窒素酸化物など�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character や (U+3084)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...の主な原因となる二酸化炭素や
+                                                  窒素酸化物などの�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 窒 (U+7A92)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...主な原因となる二酸化炭素や窒
+                                                  素酸化物などの温�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 素 (U+7D20)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...な原因となる二酸化炭素や窒素
+                                                  酸化物などの温室�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 酸 (U+9178)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...原因となる二酸化炭素や窒素酸
+                                                  化物などの温室効�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 化 (U+5316)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...因となる二酸化炭素や窒素酸化
+                                                  物などの温室効果�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 物 (U+7269)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...となる二酸化炭素や窒素酸化物
+                                                  などの温室効果ガ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character な (U+306A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...なる二酸化炭素や窒素酸化物な
+                                                  どの温室効果ガス�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character ど (U+3069)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...る二酸化炭素や窒素酸化物など
+                                                  の温室効果ガスが�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character の (U+306E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...二酸化炭素や窒素酸化物などの
+                                                  温室効果ガスが大�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 温 (U+6E29)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...酸化炭素や窒素酸化物などの温
+                                                  室効果ガスが大量�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 室 (U+5BA4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...化炭素や窒素酸化物などの温室
+                                                  効果ガスが大量に�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 効 (U+52B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...炭素や窒素酸化物などの温室効
+                                                  果ガスが大量に排�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 果 (U+679C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...素や窒素酸化物などの温室効果
+                                                  ガスが大量に排出�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character ガ (U+30AC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...や窒素酸化物などの温室効果ガ
+                                                  スが大量に排出さ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character ス (U+30B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...窒素酸化物などの温室効果ガス
+                                                  が大量に排出され�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character が (U+304C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...素酸化物などの温室効果ガスが
+                                                  大量に排出されて�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 大 (U+5927)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...酸化物などの温室効果ガスが大
+                                                  量に排出されてし�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character 量 (U+91CF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...化物などの温室効果ガスが大量
+                                                  に排出されてしまう.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43: LaTeX Error: Unicode character に (U+306B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...物などの温室効果ガスが大量に
+                                                  排出されてしまう.
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 2068 strings out of 473254
+ 30324 string characters out of 5722070
+ 425141 words of memory out of 5000000
+ 25308 multiletter control sequences out of 15000+600000
+ 558831 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,7n,65p,292b,233s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+c:/Users/kunia/Desktop/卒論作業フォルダ/sotsuron/sotsuron.tex:43:  ==> Fatal error occurred, no output PDF file produced!

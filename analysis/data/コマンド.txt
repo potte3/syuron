@@ -1,0 +1,4 @@
+【パワーシェルコマンド】
+・MP3で始まる単語以外削除
+→Get-ChildItem -Exclude MP3* | Remove-Item -Force
+

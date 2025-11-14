@@ -1,0 +1,27 @@
+\contentsline {chapter}{\numberline {第{1}章}序論 }{1}{}%
+\contentsline {section}{\numberline {1.1}プラズマと核融合発電}{1}{}%
+\contentsline {section}{\numberline {1.2}磁場閉じ込めプラズマにおける突発的現象}{2}{}%
+\contentsline {section}{\numberline {1.3}本研究の目的}{2}{}%
+\contentsline {chapter}{\numberline {第{2}章}ヘリオトロンJ 装置 }{3}{}%
+\contentsline {section}{\numberline {2.1}ヘリカル方式}{3}{}%
+\contentsline {section}{\numberline {2.2}加熱装置}{4}{}%
+\contentsline {section}{\numberline {2.3}計測装置}{5}{}%
+\contentsline {subsection}{\numberline {2.3.1}磁気プローブ}{6}{}%
+\contentsline {subsection}{\numberline {2.3.2}電子サイクロトロン放射計測}{7}{}%
+\contentsline {chapter}{\numberline {第{3}章}解析手法 }{8}{}%
+\contentsline {section}{\numberline {3.1}スペクトル解析}{8}{}%
+\contentsline {subsection}{\numberline {3.1.1}クロスパワースペクトル}{9}{}%
+\contentsline {subsection}{\numberline {3.1.2}コヒーレンスと位相差}{9}{}%
+\contentsline {section}{\numberline {3.2}ヒルベルト変換による包絡線検波}{10}{}%
+\contentsline {chapter}{\numberline {第{4}章}実験結果と解析 }{12}{}%
+\contentsline {section}{\numberline {4.1}典型的な突発現象}{12}{}%
+\contentsline {subsection}{\numberline {4.1.1}突発現象の周波数構造}{13}{}%
+\contentsline {subsection}{\numberline {4.1.2}包絡線検波}{13}{}%
+\contentsline {section}{\numberline {4.2}モード数推定手法}{14}{}%
+\contentsline {section}{\numberline {4.3}キャリアのモード数の推定}{15}{}%
+\contentsline {section}{\numberline {4.4}包絡線のモード数の推定}{16}{}%
+\contentsline {section}{\numberline {4.5}ピーク解析}{18}{}%
+\contentsline {chapter}{\numberline {第{5}章}結論 }{20}{}%
+\contentsline {chapter}{謝 辞}{21}{}%
+\contentsline {chapter}{参 考 文 献}{22}{}%
+\contentsline {chapter}{\numberline {付 録{A} }付録 }{23}{}%

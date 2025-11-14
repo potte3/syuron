@@ -1,0 +1,12 @@
+Written by peakdetect.py
+Date (JST) = 08/23/2024 15:47
+t_lower_bound [ms] = 225.0
+t_upper_bound [ms] = 325.0
+Average = 0.03137221882629831
+Root Mean Squared = 0.02908845959033572
+f_cutoff_low [Hz] = 30000.0
+f_cutoff_up [Hz] = 60000.0
+find_peaks_width = 67
+Low: find_peaks_height = (ave, ave + rms)
+High: find_peaks_height >= ave + rms
+ALL: find_peaks_height >= ave

@@ -1,0 +1,225 @@
+\begin{figure*}
+
+  \centering
+  \includegraphics[width=60mm]{chapter3/heliotronJ.png}
+  \caption{Heliotron J装置概要図}
+  \label{fig: Heliotron J model}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+  \centering
+  \includegraphics[width=60mm]{chapter3/MP_CG.png}
+  \caption{磁気プローブ(トロイダルアレイ)の外観図(CG)}
+  \label{fig: MP_CG}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+  \centering
+  \includegraphics[width=60mm]{chapter3/MP_place.png}
+  \caption{磁気プローブ(ポロイダルアレイ)の設置位置}
+  \label{fig: MP_place}
+\end{figure*}
+\kueeseparator
+ 
+\clearpage
+\clearpage
+\begin{figure*}
+
+  \includegraphics[width=130mm]{chapter4/params@72351.png}
+  \caption{代表的なプラズマパラメータの時間発展}
+  \label{fig: params@72351}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP4波形
+  \includegraphics[width=130mm]{chapter4/MP4_wave.png}
+  \caption{突発現象発生時の磁気プローブの波形}
+  \label{fig:MP4_wave}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PSD
+  \includegraphics[width=130mm]{chapter4/MP4_PSD_mer.png}
+  \caption{突発現象発生時のパワースペクトル密度(左が拡大図)}
+  \label{fig:MP4_PSD_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP4スペクトル解析
+  \includegraphics[width=130mm]{chapter4/MP4_spe.png}
+  \caption{突発的現象が起こった時と起こっていない時のパワースペクトル密度}
+  \label{fig:MP4_spe}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP4包絡線
+  \includegraphics[width=130mm]{chapter4/MP4_env_wave.png}
+  \caption{バンドパスフィルタを通した磁気プローブ波形の包絡線}
+  \label{fig:MP4_env_wave}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ %MP4包絡線拡大図
+  \includegraphics[width=130mm]{chapter4/MP4_env_wave_zoom.png}
+  \caption{バンドパスフィルタを通した磁気プローブ波形の包絡線(拡大)}
+  \label{fig:MP4_env_wave_zoom}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMP波形
+  \includegraphics[width=130mm]{chapter4/env/PMP/PMP(all)_wave_zoom.png}
+  \caption{PMP(ch1)$\sim$PMP(ch14)の波形(ピーク付近で拡大)}
+  \label{fig:PMP(all)_wave_zoom}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMPコヒーレンス(MP1基準)
+  \includegraphics[width=130mm]{chapter4/coh_PMPtoMP1_merged.png}
+  \caption{TMP(ch1)に対するコヒーレンスと位相差(左は拡大図)}
+  \label{fig:coh_PMPtoMP1_merged}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMPコヒーレンス(パターンA, B)
+  \includegraphics[width=130mm]{chapter4/car/PMP/PMP_coh_mer(AB).png}
+  \caption{パターンA,BのPMP信号のコヒーレンス}
+  \label{fig:PMP_coh_mer(AB)}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMP残差
+  \includegraphics[width=130mm]{chapter4/car/PMP/PMP_resi.png}
+  \caption{PMP信号の残差二乗平均}
+  \label{fig:PMP_resi}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MPコヒーレンス
+  \includegraphics[width=130mm]{chapter4/car/MP/MP_coh_mer.png}
+  \caption{MP信号のコヒーレンス}
+  \label{fig:MP_coh_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP残差
+  \includegraphics[width=130mm]{chapter4/car/MP/MP_resi.png}
+  \caption{MP信号の残差二乗平均}
+  \label{fig:MP_resi}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMP位相差プロット
+  \includegraphics[width=130mm]{chapter4/car/PMP/PMP(AB)_m69_phasediff_mer.png}
+  \caption{PMPの位相差(上図A,下図B)}
+  \label{fig:PMP_phasediff_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP位相差プロット
+  \includegraphics[width=130mm]{chapter4/car/MP/MP_phasediff.png}
+  \caption{MPの位相差(赤点:$m=9$, 青点:$m=6$)}
+  \label{fig:MP_phasediff}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ %PMP包絡線波形
+  \includegraphics[width=130mm]{chapter4/env/PMP/PMP(all)_env_wave_zoom.png}
+  \caption{PMP信号(包絡線)}
+  \label{fig:PMP(all)_env_wave}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ %PMPコヒーレンス(A,B)
+  \includegraphics[width=130mm]{chapter4/env/PMP/coh/PMP(AB)_env_coh.png}
+  \caption{PMP信号の位相差とコヒーレンス}
+  \label{fig:PMP(AB)_coh}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMP残差
+  \includegraphics[width=130mm]{chapter4/env/PMP/PMP_env_resi.png}
+  \caption{PMP信号(包絡線)の残差二乗平均}
+  \label{fig:PMP_env_resi}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP包絡線波形
+  \includegraphics[width=130mm]{chapter4/env/MP/MP_env_wave_zoom.png}
+  \caption{MP信号の包絡線の波形}
+  \label{fig:MP_env_wave}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MPコヒーレンス
+  \includegraphics[width=130mm]{chapter4/env/MP/MP_env_coh_mer.png}
+  \caption{MP信号の包絡線のコヒーレンス}
+  \label{fig:MP_env_coh_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MP残差
+  \includegraphics[width=130mm]{chapter4/env/MP/MP_env_resi.png}
+  \caption{MP信号(包絡線)の残差二乗平均}
+  \label{fig:MP_env_resi}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % MPプロット
+  \includegraphics[width=130mm]{chapter4/env/MP/MP_env_phasediff_mer.png}
+  \caption{MP信号(包絡線)のコヒーレンス(右が拡大図)}
+  \label{fig:MP_env_phasediff_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % PMPプロット
+  \includegraphics[width=130mm]{chapter4/env/PMP/PMP_env_phasediff_mer.png}
+  \caption{PMP信号(包絡線)の位相差グラフ(左図:パターンA,右図:パターンB)}
+  \label{fig:PMP_env_phasediff_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+ % ECE@72352
+  \includegraphics[width=130mm]{chapter4/peak/ECE@72352_mer.png}
+  \caption{$Te(0.95)$計測データ}
+  \label{fig:ECE@72352_mer}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+  \includegraphics[width=130mm]{chapter4/peak/3peak.png}
+  \caption{ピーク付近のECE信号データ}
+  \label{fig:3peak}
+\end{figure*}
+\kueeseparator
+ 
+\clearpage
+\clearpage
+\clearpage
+\clearpage
